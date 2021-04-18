@@ -1,0 +1,8 @@
+requests
+wikipedia
+gtts
+pyAudio
+google-search
+google-api-python-client
+google-api-client
+colorama
